@@ -1,0 +1,7 @@
+{
+  "name": "Copy of StudyWise AI",
+  "description": "An expert-level study abroad assistant for Indian students, offering personalized university advice, scholarship matching, SOP/LOR guidance, image editing, and campus video animation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
